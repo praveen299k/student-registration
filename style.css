@@ -1,0 +1,16 @@
+body {
+  background-color: #b7bf99;
+}
+
+h1 {
+  color: #010221;
+  font-weight: 700;
+  text-decoration: underline;
+  width: 20%;
+  margin: 20px auto;
+}
+
+.top {
+  background-color: #0a7373;
+  color: aliceblue;
+}
